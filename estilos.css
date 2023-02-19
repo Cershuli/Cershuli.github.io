@@ -277,6 +277,12 @@ body {
         line-height: 2.7rem;
     }
 
+    .read-more-container .Profile_picture img {
+        text-align: center;
+        width: 70%;
+        border-radius: 30%;
+    }
+
     .read-more-container .container {
         line-height: 2.4rem;
     }
