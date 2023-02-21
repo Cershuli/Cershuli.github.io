@@ -688,6 +688,17 @@ body {
     }
     }
 
+@media (max-width: 375px) {
+    .Habilidades_e_idiomas .Titulo_Habilidades_e_idiomas {
+        color: rgb(255, 255, 255);
+        text-align: center;
+        font-size: 60px;
+        font-weight: 600;
+        margin-top: 0;
+        padding-top: 410px;
+        margin-left: 25px;
+    }
+}
 
 @media (max-width: 360px) {
     .Habilidades_e_idiomas .Titulo_Habilidades_e_idiomas {
